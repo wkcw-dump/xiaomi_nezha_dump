@@ -1,0 +1,65 @@
+{
+  "title": "弧光",
+  "titleResId": "wallpaper_group_arc_title",
+  "cardType": 1,
+  "count": 4,
+  "slideCount": 4,
+  "randomOrder": false,
+  "isSupportFullScreenAod": true,
+  "wallpapers": [
+    {
+      "cmf": "DG",
+      "thumbPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG.jpg",
+      "allKeyFrame": 1,
+      "maskPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG_mask.jpg",
+      "previewPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG.jpg",
+      "originPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG.jpg",
+      "videoPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG.mp4",
+      "subjectPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_DG_subject.webp",
+      "sha1": "161b7b98afa812e4cbdca4a1f3064930f5684ec8",
+      "videoType": 1,
+      "mattingMode": 2,
+      "type": "videowallpaper"
+    },
+    {
+      "cmf": "TA",
+      "thumbPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA.jpg",
+      "allKeyFrame": 1,
+      "maskPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA_mask.jpg",
+      "previewPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA.jpg",
+      "originPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA.jpg",
+      "videoPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA.mp4",
+      "subjectPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_TA_subject.webp",
+      "sha1": "4016d7a6c5c9ed3797424a0d191622e91021bd0e",
+      "videoType": 1,
+      "mattingMode": 2,
+      "type": "videowallpaper"
+    },{
+      "cmf": "",
+      "thumbPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU.jpg",
+      "allKeyFrame": 1,
+      "maskPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU_mask.jpg",
+      "previewPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU.jpg",
+      "originPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU.jpg",
+      "videoPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU.mp4",
+      "subjectPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_PU_subject.webp",
+      "sha1": "fcc0bb197e6b3b01aca4a5099220100e1ed51eb1",
+      "videoType": 1,
+      "mattingMode": 2,
+      "type": "videowallpaper"
+    },{
+      "cmf": "WH",
+      "thumbPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH.jpg",
+      "allKeyFrame": 1,
+      "maskPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH_mask.jpg",
+      "previewPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH.jpg",
+      "originPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH.jpg",
+      "videoPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH.mp4",
+      "subjectPath": "/system/media/wallpaper/wallpaper_group/00_CMFdynamic/wallpaper_WH_subject.webp",
+      "sha1": "3c3a1807eb7812f2237615ffc26d9471e4d2ae56",
+      "videoType": 1,
+      "mattingMode": 2,
+      "type": "videowallpaper"
+    }
+  ]
+}

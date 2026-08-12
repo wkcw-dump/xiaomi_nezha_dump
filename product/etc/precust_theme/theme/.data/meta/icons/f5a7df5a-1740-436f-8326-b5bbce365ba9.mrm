@@ -1,0 +1,132 @@
+{
+  "localId": "f5a7df5a-1740-436f-8326-b5bbce365ba9",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "79b3503e767d282784af023bbbe4baff37a10b31",
+  "platform": 17,
+  "size": 18288156,
+  "updatedTime": 0,
+  "version": "2.6",
+  "authors": {
+    "it_IT": "Temi Xiaomi",
+    "pl_PL": "Motywy Xiaomi",
+    "th_TH": "Xiaomi ธีม",
+    "fr_FR": "Thèmes Xiaomi",
+    "ja_JP": "Xiaomi テーマ",
+    "cs_CZ": "Témata Xiaomi",
+    "in_ID": "Tema Xiaomi",
+    "de_DE": "Xiaomi-Themen",
+    "ms_MY": "Tema Xiaomi",
+    "zh_HK": "小米國際主題",
+    "zh_TW": "小米國際主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米国际主题",
+    "es_ES": "Temas Xiaomi",
+    "ar_EG": "ثيمات Xiaomi",
+    "fallback": "Xiaomi Themes"
+  },
+  "designers": {
+    "it_IT": "Temi Xiaomi",
+    "pl_PL": "Motywy Xiaomi",
+    "th_TH": "Xiaomi ธีม",
+    "fr_FR": "Thèmes Xiaomi",
+    "ja_JP": "Xiaomi テーマ",
+    "cs_CZ": "Témata Xiaomi",
+    "in_ID": "Tema Xiaomi",
+    "de_DE": "Xiaomi-Themen",
+    "ms_MY": "Tema Xiaomi",
+    "zh_HK": "小米國際主題",
+    "zh_TW": "小米國際主題",
+    "en_US": "Xiaomi Themes",
+    "zh_CN": "小米国际主题",
+    "es_ES": "Temas Xiaomi",
+    "ar_EG": "ثيمات Xiaomi",
+    "fallback": "Xiaomi Themes"
+  },
+  "titles": {
+    "it_IT": "Leica Vivace",
+    "pl_PL": "Leica Vibrant",
+    "th_TH": "Leica Vibrant",
+    "fr_FR": "Leica Vibrant",
+    "ja_JP": "Leica バイブラント",
+    "cs_CZ": "Leica Vibrant",
+    "in_ID": "Leica Vibrant",
+    "de_DE": "Leica Vibrant",
+    "ms_MY": "Leica Vibrant",
+    "zh_HK": "徠卡生動",
+    "zh_TW": "徠卡生動",
+    "en_US": "Leica Vibrant",
+    "zh_CN": "徕卡生动",
+    "es_ES": "Leica vibrante",
+    "ar_EG": "حيوي Leica",
+    "fallback": "Leica Vibrant"
+  },
+  "descriptions": {
+    "it_IT": "Un’energia armoniosa che celebra la tradizione del Leica Design con un accento vivace.",
+    "pl_PL": "Harmonia barw zgodna z duchem Leica Design, wzbogacona o żywsze kolory.",
+    "th_TH": "ความสดใสสมดุลที่ยกย่องมรดก Leica Design พร้อมทั้งเพิ่มสัมผัสที่สดใส",
+    "fr_FR": "Une vivacité équilibrée qui honore l'héritage de Leica Design tout en ajoutant une touche vivante.",
+    "ja_JP": "Leica Design の伝統を尊重しながら、鮮やかなタッチを加えたバランスのとれた鮮明さ。",
+    "cs_CZ": "Vyvážený vzhled, který ctí dědictví Leica Designu a zároveň přidává živý nádech",
+    "in_ID": "Menjaga warisan Leica Design tetap hidup, dengan sentuhan warna yang memukau dan seimbang.",
+    "de_DE": "Ausgewogene Lebendigkeit, die das Erbe von Leica Design ehrt und gleichzeitig einen lebendigen Akzent setzt.",
+    "ms_MY": "Keceriaan seimbang yang menghormati legasi Leica Design sambil menambah sentuhan yang jelas.",
+    "zh_HK": "傳承徠卡設計，增添鮮明活力，明艷有度",
+    "zh_TW": "傳承徠卡設計，增添鮮明活力，明艷有度",
+    "en_US": "Balanced vibrancy that honors Leica Design legacy while adding a vivid touch.",
+    "zh_CN": "传承徕卡设计，增添鲜明活力，明艳有度",
+    "es_ES": "Una vibración equilibrada que honra el legado de Leica Design y al mismo tiempo añade un toque vívido.",
+    "ar_EG": "مستوحى من Leica Design، ينبض بالحيوية ويعكس وضوح التفاصيل.",
+    "fallback": "Balanced vibrancy that honors Leica Design legacy while adding a vivid touch."
+  },
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_icons_small_0.jpg",
+      "en_US_icons_mask_0.jpg",
+      "en_US_icons_mask_1.jpg"
+    ],
+    "fallback": [
+      "preview_icons_small_0.jpg",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_icons_mask_0.jpg",
+      "en_US_icons_mask_1.jpg"
+    ],
+    "fallback": [
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "992e35a9-efd5-4ed0-99d1-7496dd9ebaf0",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}
